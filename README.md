@@ -46,7 +46,7 @@
 
 ### :chart_with_downwards_trend: Burndown
 
-<img src="https://user-images.githubusercontent.com/101262618/225779813-99395f76-ccbf-4173-8bc5-064a9ba5194d.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/101262618/225882924-554aaea1-c21c-4b7c-962a-3b1589dcabeb.png" width="400px" />
 
 
 
