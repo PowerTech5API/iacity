@@ -2,52 +2,132 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102330791/163039449-5e73781f-a340-45b3-a42e-28d95e476e76.png" width="150px" />
 </div>
-
-
+<br>
+<br>
 
 <p align="center">
-  •<a href ="#wrench-dev-team">  Dev Team </a> •  
-  <a href ="#runner-sprint-planning">   Sprint Planning </a> •  
-  <a href ="#chart_with_downwards_trend-burndown"> Burndown </a>  • 
-  <a href ="#tv-wireframe"> Wireframe </a>  • 
-  <a href ="#clapper-gif-de-apresentação"> Gif de Apresentação </a>  • 
-  <a href ="#thumbsup-tecnologias-utilizadas">  Tecnologias Utilizadas </a> 
-  
-  <hr>
-  
-  ###  :wrench: Dev Team
+  <a href ="#quem-somos-nós"> Quem somos nós </a> •
+   <a href ="#equipe"> Equipe </a> •
+  <a href ="#o-projeto"> Desafio </a>  • 
+  <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
+  <a href ="#backlogs">Backlog </a>  • 
+  <a href ="#cronograma-das-sprints"> Cronograma </a>  •
+  <a href ="#codigo"> Código </a>  • 
+  <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
+</p>
+
+<span id="quem-somos-nós">
+
+##  :space_invader: Quem somos nós:
+
+Somos um grupo criado para o Projeto Integrador do 5º Semestre de Análise e Desenvolvimento de Sistemas da Faculdade Tecnológica Prof. Jessen Vidal - FATEC São José dos Campos.
+Buscamos solucionar o problema apresentado, adquirindo experiência na metodologia de aprendizado via API e conhecimento de novas tecnologias, para encontrarmos a melhor forma de alcançar o objetivo do grupo.
+
+<span id="equipe">
+
+## 👨‍💻 Equipe
+
+<div align="center">
+
+|    Nome     | Função |      GitHub    |
+|:-----------: |:------|:----------------------------|
+| Carlos Henrique Benício Costa | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Henrique39) |
+| Dante Demétrius Pereira Silva | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dantesjc) |
+| Frederico Rabelo | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredrbo) | 
+| Juliana Maria Ribeiro Ramos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianaMaria-Lab) | 
+| Lucca Santiago Almeida | Dev | [ ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaSantiagoDev) | 
+| Maycon Rafael Cruz Silva | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconRafael) | 
+| Nicolas Lemuel Ayres de Lima | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlemuel) | 
+| Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) | 
+
+</div>
+
+→ [Voltar ao topo](#topo)
 
 
-### Dante Demétrius Pereira Silva  - P.O [![GitHub Badge](https://img.shields.io/github/followers/dantesjc?label=dantesjc&style=for-the-badge&color=black&link=https://github.com/dantesjc)](https://github.com/dantesjc)<br/>
+<span id="o-projeto">
 
-### Carlos Henrique Benício Costa - S.M [![GitHub Badge](https://img.shields.io/github/followers/Carlos-Henrique39?label=Carlos-Henrique39&style=for-the-badge&color=black&link=https://github.com/Carlos-Henrique39)](https://github.com/Carlos-Henrique39)<br/>
+## :bookmark_tabs: Desafio
 
-### Thamires de Souza Barbosa - Dev. [![GitHub Badge](https://img.shields.io/github/followers/Thamires-S0uza?label=Thamires-S0uza&style=for-the-badge&color=black&link=https://github.com/Thamires-S0uza)](https://github.com/Thamires-S0uza)<br/>
+<p align="center">
+<img src="inserir url da logo da iacit aqui" width="150px" />
+</p>
 
-### Ana Christina  - Dev. [![GitHub Badge](https://img.shields.io/github/followers/AnaChristina?label=AnaChristina&style=for-the-badge&color=black&link=https://github.com/AnaChristina)](https://github.com/AnaChristina)<br/>
+<p align="left"> 
 
-### Frederico Rabelo - Dev. [![GitHub Badge](https://img.shields.io/github/followers/fredrbo?label=fredrbo&style=for-the-badge&color=black&link=https://github.com/fredrbo)](https://github.com/fredrbo)<br/>
+A IACIT é uma empresa brasileira que possui capacitação tecnológica para o desenvolvimento de diversos produtos. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle.
+Atualmente, os clientes enviam ROs (Registros de Ocorrência) por vários meios de comunicação: aplicativos, e-mail, telefone, etc. 
+O desafio é criar uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada. 
 
-### Lucca Santiago Almeida - Dev. [![GitHub Badge](https://img.shields.io/github/followers/LuccaSantiagoDev?label=LuccaSantiagoDev&style=for-the-badge&color=black&link=https://github.com/LuccaSantiagoDev)](https://github.com/LuccaSantiagoDev)</br>
+</p>
 
-### Juliana Maria - Dev. [![GitHub Badge](https://img.shields.io/github/followers/JulianaMaria-Lab?label=JulianaMaria-Lab&style=for-the-badge&color=black&link=https://github.com/JulianaMaria-Lab)](https://github.com/JulianaMaria-Lab)<br/>
+→ [Voltar ao topo](#topo)
 
-### Nicolas Lemuel Ayres de Lima - Dev. [![GitHub Badge](https://img.shields.io/github/followers/nlemuel?label=nlemuel&style=for-the-badge&color=black&link=https://github.com/nlemuel)](https://github.com/nlemuel)<br/>
+<span id="escopo-do-projeto">
 
-### Maycon Rafael - Dev. [![GitHub Badge](https://img.shields.io/github/followers/MayconRafael?label=MayconRafael&style=for-the-badge&color=black&link=https://github.com/MayconRafael)](https://github.com/MayconRafael)<br/>
+## :dart: Escopo do Projeto
 
+### Requisitos Funcionais:
+- [ ] Área de Cliente e área de Administrador, com controles de acesso (autenticação/autorização) 
+- [ ]  Opções de criar e acompanhar ROs 
+- [ ]  Comunicação com os administradores do sistema via chat 
+- [ ]  Atualização do Status das ROs em tempo real
+- [ ]  Envio de e-mail com notificações para o cliente e administradores 
+- [ ]  Relatórios/gráficos de sumarização das ROs
 
-<hr>
+### Requisistos Não Funcionais
+- [ ] Documentação com mapeamento das regras de negócio do cliente.
+- [ ]   JavaScript
+- [ ]  TypeScript
+- [ ]  React e ReactNative
+- [ ]  Python
 
-### :runner: Sprint Planning
+→ [Voltar ao topo](#topo)
 
+<span id="backlogs">
 
-<hr>
+## :flags: Backlog
 
-### :chart_with_downwards_trend: Burndown
+<p align="center">
+<img src = "insira url da imagem com backlog aqui" width="550"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/101262618/225882924-554aaea1-c21c-4b7c-962a-3b1589dcabeb.png" width="400px" />
+→ [Voltar ao topo](#topo)
 
+<span id="cronograma-das-sprints">
 
+## 📆 Cronograma das Sprints
 
-<hr>
+<div align="center">
+
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 02/04/2023 | 🚧 Em andamento    | [Relatório](url da sprint aqui...)|
+| 02 | 23/04/2023 | 🚧 Em andamento   | [Relatório](url da sprint aqui...) |
+| 03 | 14/05/2023 | 🚧 Em andamento   | [Relatório](url da sprint aqui...) |
+| 04 | 04/06/2023 | 🚧 Em andamento    | [Relatório](url da sprint aqui...) |
+
+</div>
+
+→ [Voltar ao topo](#topo)
+
+<span id="codigo">
+
+## 	:computer: Código do Projeto
+
+### :iphone: [Front-end ](url do repositório do frontend)
+
+### :gear: [Back-end ](url do repositório do backend)
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologias-utilizadas">
+
+## 🖥️ Tecnologias Utilizadas
+
+- **Banco de Dados:** MongoDB;
+- **Back-end:** Node.js;
+- **Front-end:** HTML, CSS, TypeScript, React Native;
+- **Ferramentas:** Discord, Visual Studio Code, Figma, Git e Github;
+
+→ [Voltar ao topo](#topo)
