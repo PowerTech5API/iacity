@@ -33,6 +33,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 |:-----------: |:------|:----------------------------|
 | Carlos Henrique Benício Costa | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlos-Henrique39) |
 | Dante Demétrius Pereira Silva | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dantesjc) |
+| Ana Christina | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaChristina) |
 | Frederico Rabelo | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredrbo) | 
 | Juliana Maria Ribeiro Ramos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianaMaria-Lab) | 
 | Lucca Santiago Almeida | Dev | [ ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuccaSantiagoDev) | 
