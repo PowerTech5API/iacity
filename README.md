@@ -51,7 +51,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 ## :bookmark_tabs: Desafio
 
 <p align="center">
-<img src="inserir url da logo da iacit aqui" width="150px" />
+<img src="" width="150px" />
 </p>
 
 <p align="left"> 
@@ -90,7 +90,7 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 ## :flags: Backlog
 
 <p align="center">
-<img src = "insira url da imagem com backlog aqui" width="550"/>
+<img src = "https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png" width="550"/>
 </p>
 
 → [Voltar ao topo](#topo)
