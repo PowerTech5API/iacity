@@ -113,9 +113,9 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 
 ## 	:computer: Código do Projeto
 
-### :iphone: [Front-end ](url do repositório do frontend)
+### :iphone: [Front-end ](https://github.com/PowerTech5API/Iacit_Frontend_App)
 
-### :gear: [Back-end ](url do repositório do backend)
+### :gear: [Back-end ](https://github.com/PowerTech5API/Iacit_Backend_App)
 
 → [Voltar ao topo](#topo)
 
