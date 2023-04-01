@@ -88,7 +88,7 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 ## :flags: Backlog
 
 <p align="center">
-<img src = "[https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png](https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png)" width="550"/>
+<img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="550"/>
 </p>
 
 → [Voltar ao topo](#topo)
