@@ -10,7 +10,7 @@
    <a href ="#equipe"> Equipe </a> •
   <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
-  <a href ="#backlogs">Backlog </a>  • 
+  <a href ="#burndown">Burndown </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
   <a href ="#codigo"> Código </a>  • 
   <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
@@ -82,9 +82,9 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 
 → [Voltar ao topo](#topo)
 
-<span id="backlogs">
+<span id="burndown">
 
-## :flags: Backlog
+## :flags: Burndown
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png" width="550"/>
