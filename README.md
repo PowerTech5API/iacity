@@ -40,6 +40,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 | Maycon Rafael Cruz Silva | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconRafael) | 
 | Nicolas Lemuel Ayres de Lima | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlemuel) | 
 | Thamires de Souza Barbosa | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) | 
+| Rafael Motta | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafael-Motta) | 
 
 </div>
 
@@ -48,11 +49,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 
 <span id="o-projeto">
 
-## :bookmark_tabs: Desafio
-
-<p align="center">
-<img src="" width="150px" />
-</p>
+## :bookmark_tabs: Empresa Parceira
 
 <p align="left"> 
 
