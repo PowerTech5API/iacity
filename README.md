@@ -10,6 +10,7 @@
    <a href ="#equipe"> Equipe </a> •
   <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
+  <a href ="#backlog">Backlog </a>  • 
   <a href ="#burndown">Burndown </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
   <a href ="#codigo"> Código </a>  • 
@@ -79,6 +80,16 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 - [ ]  TypeScript
 - [ ]  React e ReactNative
 - [ ]  Python
+
+→ [Voltar ao topo](#topo)
+  
+  <span id="backlog">
+
+## :flags: Backlog
+
+<p align="center">
+<img src = "[https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png](https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png)" width="550"/>
+</p>
 
 → [Voltar ao topo](#topo)
 
