@@ -8,7 +8,7 @@
 <p align="center">
   <a href ="#quem-somos-nós"> Quem somos nós </a> •
    <a href ="#equipe"> Equipe </a> •
-  <a href ="#o-projeto"> Desafio </a>  • 
+  <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
   <a href ="#backlogs">Backlog </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
@@ -47,7 +47,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 → [Voltar ao topo](#topo)
 
 
-<span id="o-projeto">
+<span id="empresa-parceira">
 
 ## :bookmark_tabs: Empresa Parceira
 
