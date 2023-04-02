@@ -127,12 +127,12 @@ Tela CadastroRO
 
 <div align="center">
 
-| Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 02/04/2023 | 🚧 Em andamento    | [Relatório](url da sprint aqui...)|
-| 02 | 23/04/2023 | 🚧 Em andamento   | [Relatório](url da sprint aqui...) |
-| 03 | 14/05/2023 | 🚧 Em andamento   | [Relatório](url da sprint aqui...) |
-| 04 | 04/06/2023 | 🚧 Em andamento    | [Relatório](url da sprint aqui...) |
+| Sprint | Previsão de entrega | Status
+|:--:|:----------:|:-------------------|
+| 01 | 02/04/2023 |  Concluido    | 
+| 02 | 23/04/2023 | 🚧 Em andamento   |
+| 03 | 14/05/2023 | 🚧 Em andamento   |
+| 04 | 04/06/2023 | 🚧 Em andamento    |
 
 </div>
 
