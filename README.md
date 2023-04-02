@@ -12,6 +12,7 @@
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
   <a href ="#backlog">Backlog </a>  • 
   <a href ="#burndown">Burndown </a>  • 
+  <a href ="#gifs">Gifs de apresentação </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
   <a href ="#codigo"> Código </a>  • 
   <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
@@ -100,6 +101,23 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png" width="550"/>
 </p>
+
+→ [Voltar ao topo](#topo)
+
+<span id="gifs">
+
+## :flags: Gifs de Apresentação
+
+Tela Login
+
+* <img src="https://user-images.githubusercontent.com/101262618/229361746-943a3a48-320f-42e6-a5f3-2629d4fb8f09.gif" width="400px" />
+
+Tela AcompanheRO
+* <img src="https://user-images.githubusercontent.com/101262618/229361739-c8a4083b-6e87-4ad9-a8f1-7d05a972f466.gif" width="400px" />
+
+Tela CadastroRO
+
+* <img src="https://user-images.githubusercontent.com/101262618/229361742-cfc8897e-1757-4af0-8570-42398c014ba1.gif" width="400px" />
 
 → [Voltar ao topo](#topo)
 
