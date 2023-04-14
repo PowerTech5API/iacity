@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href ="#quem-somos-nós"> Quem somos nós </a> •
-   <a href ="#equipe"> Equipe </a> •
+  <a href ="#equipe"> Equipe </a> •
   <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
+  <a href ="#objetivo"> Objetivo </a>  • 
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
   <a href ="#backlog">Backlog </a>  • 
   <a href ="#burndown">Burndown </a>  • 
@@ -57,7 +58,18 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 
 A IACIT é uma empresa brasileira que possui capacitação tecnológica para o desenvolvimento de diversos produtos. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle.
 Atualmente, os clientes enviam ROs (Registros de Ocorrência) por vários meios de comunicação: aplicativos, e-mail, telefone, etc. 
-O desafio é criar uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada. 
+
+</p>
+
+→ [Voltar ao topo](#topo)
+
+<span id="objetivo">
+
+## :bookmark_tabs: Objetivo
+
+<p align="left"> 
+
+O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada. 
 
 </p>
 
@@ -90,16 +102,7 @@ O desafio é criar uma aplicação híbrida/responsiva, que funcione como Servi�
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="550"/>
-</p>
-
-→ [Voltar ao topo](#topo)
-
-<span id="burndown">
-
-## :flags: Burndown
-
-<p align="center">
-<img src = "https://user-images.githubusercontent.com/101262618/229134711-706ff0f3-d12a-48bf-981c-d2d2f288a682.png" width="550"/>
+<img src = "https://user-images.githubusercontent.com/101262618/232053378-c89ce4f5-92ef-458a-8299-011451b7e504.png" width="800"/>
 </p>
 
 → [Voltar ao topo](#topo)
