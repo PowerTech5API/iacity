@@ -101,7 +101,7 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="550"/>
-<img src = "https://user-images.githubusercontent.com/101262618/232811804-32f04cc6-60b3-40ed-8d0a-7915187030b1.png" width="800"/>
+<img src = "https://user-images.githubusercontent.com/101262618/233861934-e59eeed8-6478-44d3-9925-426781ac9ba5.png" width="800"/>
 </p>
 
 → [Voltar ao topo](#topo)
