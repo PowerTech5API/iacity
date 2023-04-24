@@ -12,7 +12,6 @@
   <a href ="#objetivo"> Objetivo </a>  • 
   <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
   <a href ="#backlog">Backlog </a>  • 
-  <a href ="#burndown">Burndown </a>  • 
   <a href ="#gifs">Gifs de apresentação </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
   <a href ="#codigo"> Código </a>  • 
@@ -108,7 +107,7 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 
 <span id="gifs">
 
-## :flags: Gifs de Apresentação
+## :flags: Gifs de Apresentação da Sprint1
 
 Tela Login
 
@@ -120,6 +119,8 @@ Tela AcompanheRO
 Tela CadastroRO
 
 * <img src="https://user-images.githubusercontent.com/101262618/229361742-cfc8897e-1757-4af0-8570-42398c014ba1.gif" width="400px" />
+
+## :flags: Gifs de Apresentação da Sprint2
 
 → [Voltar ao topo](#topo)
 
