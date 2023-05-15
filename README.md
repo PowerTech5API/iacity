@@ -101,6 +101,8 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="550"/>
 <img src = "https://user-images.githubusercontent.com/101262618/233861934-e59eeed8-6478-44d3-9925-426781ac9ba5.png" width="800"/>
+<img src = "https://user-images.githubusercontent.com/101262618/238358056-26668ee8-cd56-4d42-a1b9-9beecdcf1f5a.jpg" width="550"/>
+  
 </p>
 
 → [Voltar ao topo](#topo)
@@ -132,9 +134,9 @@ Tela CadastroRO
 
 | Sprint | Previsão de entrega | Status
 |:--:|:----------:|:-------------------|
-| 01 | 02/04/2023 |  Concluido    | 
-| 02 | 23/04/2023 | 🚧 Em andamento   |
-| 03 | 14/05/2023 | 🚧 Em andamento   |
+| 01 | 02/04/2023 |  ✅Concluido    | 
+| 02 | 23/04/2023 |  ✅Concluido    |
+| 03 | 14/05/2023 |  ✅Concluido    |
 | 04 | 04/06/2023 | 🚧 Em andamento    |
 
 </div>
