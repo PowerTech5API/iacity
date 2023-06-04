@@ -78,19 +78,19 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 ## :dart: Escopo do Projeto
 
 ### Requisitos Funcionais:
-- [ ] Área de Cliente e área de Administrador, com controles de acesso (autenticação/autorização) 
-- [ ]  Opções de criar e acompanhar ROs 
-- [ ]  Comunicação com os administradores do sistema via chat 
-- [ ]  Atualização do Status das ROs em tempo real
-- [ ]  Envio de e-mail com notificações para o cliente e administradores 
-- [ ]  Relatórios/gráficos de sumarização das ROs
+- ✅ Área de Cliente e área de Administrador, com controles de acesso (autenticação/autorização) 
+- ✅  Opções de criar e acompanhar ROs 
+- ✅  Comunicação com os administradores do sistema via chat 
+- ✅  Atualização do Status das ROs em tempo real
+- ✅  Envio de e-mail com notificações para o cliente e administradores 
+- ✅  Relatórios/gráficos de sumarização das ROs
 
 ### Requisistos Não Funcionais
-- [ ] Documentação com mapeamento das regras de negócio do cliente.
-- [ ]   JavaScript
-- [ ]  TypeScript
-- [ ]  React e ReactNative
-- [ ]  Python
+- ✅ Documentação com mapeamento das regras de negócio do cliente.
+- ✅   JavaScript
+- ✅  TypeScript
+- ✅  React e ReactNative
+- ✅  Python
 
 → [Voltar ao topo](#topo)
   
@@ -99,9 +99,10 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 ## :flags: Backlog
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="550"/>
+<img src = "https://user-images.githubusercontent.com/101262618/229307565-beabf175-4fb5-4e66-a29a-9f0b0cb7ef0e.png" width="800"/>
 <img src = "https://user-images.githubusercontent.com/101262618/233861934-e59eeed8-6478-44d3-9925-426781ac9ba5.png" width="800"/>
-<img src = "https://user-images.githubusercontent.com/101262618/238358056-26668ee8-cd56-4d42-a1b9-9beecdcf1f5a.jpg" width="550"/>
+<img src = "https://github.com/PowerTech5API/iacity/assets/101262618/7521ebd0-d6e1-4bac-b1ea-5fdd5d9e9435" width="800"/>
+<img src = "https://github.com/PowerTech5API/iacity/assets/101262618/ae41a630-f25f-4249-9f04-1f7e97606b66" width="800"/>
   
 </p>
 
@@ -137,7 +138,7 @@ Tela CadastroRO
 | 01 | 02/04/2023 |  ✅Concluido    | 
 | 02 | 23/04/2023 |  ✅Concluido    |
 | 03 | 14/05/2023 |  ✅Concluido    |
-| 04 | 04/06/2023 | 🚧 Em andamento    |
+| 04 | 04/06/2023 |  ✅Concluido    |
 
 </div>
 
