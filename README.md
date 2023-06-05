@@ -135,8 +135,6 @@ Tela CadastroRO
 
 * <img src="https://user-images.githubusercontent.com/101262618/229361742-cfc8897e-1757-4af0-8570-42398c014ba1.gif" width="400px" />
 
-## :flags: Gifs de Apresentação da Sprint2
-
 → [Voltar ao topo](#topo)
 
 <span id="cronograma-das-sprints">
