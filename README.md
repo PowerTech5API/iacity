@@ -14,6 +14,7 @@
   <a href ="#backlog">Backlog </a>  • 
   <a href ="#gifs">Gifs de apresentação </a>  • 
   <a href ="#cronograma-das-sprints"> Cronograma </a>  •
+  <a href ="#Documentos"> Documentos </a>  •
   <a href ="#codigo"> Código </a>  • 
   <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
 </p>
@@ -151,6 +152,14 @@ Tela CadastroRO
 | 04 | 04/06/2023 |  ✅Concluido    |
 
 </div>
+
+→ [Voltar ao topo](#topo)
+  
+  <span id="Documentos">
+
+## 	📖 Documentação do API
+
+### 📖: [Documento do API 5º](https://github.com/PowerTech5API/iacity/files/11647795/Documentacao_API_5o.1.docx)
 
 → [Voltar ao topo](#topo)
 
