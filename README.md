@@ -157,7 +157,9 @@ Recuperar/Alterar senha por e-mail
   
   * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/661d2549-8f37-4175-8a5a-90992de9acce.gif" width="400px" />
 
-
+Implementação de LGPD - Termos de Privacidade e Recebimento de e-mail
+  
+  * <img src="https://media.giphy.com/media/aJ4ufsKznTrGe7l49y/giphy.gif" width="400px" />
 
 
 
