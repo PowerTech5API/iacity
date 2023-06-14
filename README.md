@@ -1,4 +1,5 @@
 # iacity
+<span id="topo">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102330791/163039449-5e73781f-a340-45b3-a42e-28d95e476e76.png" width="150px" />
 </div>
@@ -129,12 +130,39 @@ Tela Login
 
 * <img src="https://user-images.githubusercontent.com/101262618/229361746-943a3a48-320f-42e6-a5f3-2629d4fb8f09.gif" width="400px" />
 
+Tela Inicial do Admin - Filtros
+
+  * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/699bfb9a-b5af-4234-9abd-737777c1d0cf" width="400px" />
+
+Tela Inicial do Usuário - Filtros
+
+  * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/594409d8-49e5-4fb8-9306-8a573d2ac12d" width="400px" />
+
 Tela AcompanheRO
 * <img src="https://user-images.githubusercontent.com/101262618/229361739-c8a4083b-6e87-4ad9-a8f1-7d05a972f466.gif" width="400px" />
 
 Tela CadastroRO
 
 * <img src="https://user-images.githubusercontent.com/101262618/229361742-cfc8897e-1757-4af0-8570-42398c014ba1.gif" width="400px" />
+  
+ Menu Lateral
+  
+  * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/d3f9a4de-15b0-4b32-bca2-0fe704709944.gif" width="400px" />
+
+Chat
+  
+  * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/c71d9b63-4e16-43b0-92fa-6d4f75067fbb.gif" width="400px" />
+
+Recuperar/Alterar senha por e-mail
+  
+  * <img src="https://github.com/PowerTech5API/iacity/assets/79669245/661d2549-8f37-4175-8a5a-90992de9acce.gif" width="400px" />
+
+
+
+
+
+
+
 
 → [Voltar ao topo](#topo)
 
